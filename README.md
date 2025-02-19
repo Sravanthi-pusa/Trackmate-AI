@@ -1,6 +1,5 @@
 
-#  God's Eye: Automated Lost Person Identification & Retrieval Platform
-
+# TRACKMATE AI
 ## Introduction:
 God's Eye is a sophisticated automated system designed for the swift identification and retrieval of missing persons using advanced AI-based technologies. This platform seamlessly integrates various components to facilitate real-time facial recognition, location tracking, and alert generation, aiding in efficient search and rescue operations.
 
@@ -33,12 +32,6 @@ We welcome contributions from the community to enhance and improve God's Eye. Pl
 
 Acknowledgments:
 We express our gratitude to all contributors, open-source libraries, and resources that have made this project possible.
-
-Contact:
-For any inquiries or support, please contact vishnu952003@gmail.com.
-
-Disclaimer:
-This platform is intended for humanitarian purposes and should be used responsibly and ethically. We are not liable for any misuse or unauthorized use of the system.
 
 
 
